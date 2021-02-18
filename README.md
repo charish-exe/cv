@@ -1,3 +1,4 @@
-# cv
-only HTML ^3^!
-https://charish-exe.github.io/cv/
+# cv - Friends
+
+<h3>Real Repo At : https://github.com/charis-exe/cv </h3>
+<a> i just add some better thing :D </a>
